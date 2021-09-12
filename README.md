@@ -19,7 +19,7 @@ If you have created a map, feel free to add it to the program or contact me and 
 
 Here is an example of gameplay :
 <div>
-  <img alt="Gameplay" width="45%" src="https://github.com/Magueija/gameplay/blob/main/gameplay/dinodude_gameplay.gif" />
+  <img alt="Gameplay" width="45%" src="https://github.com/Magueija/dinodude/blob/main/gameplay/dinodude_gameplay.gif?raw=true" />
 </div>
 
 ### Map rules
