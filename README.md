@@ -40,7 +40,7 @@ The program must take as an argument a map description file with the '.ber' exte
 
 ## Getting Started
 
-# Requirements
+### Requirements
 To use the program you must intall some software:
 Requirements for Linux (Debian/Ubuntu):
 	- [xorg](https://wiki.debian.org/Xorg)
@@ -55,7 +55,7 @@ Brew install Xquartz
 reboot
 ```
 
-# Starting the game
+### Starting the game
 Run the command `make` to create the **dinodude** executable. See the exemple bellow :
 ```
 git clone https://github.com/Magueija/dinodude.git dinodude
