@@ -57,9 +57,8 @@ reboot
 ### Starting the game
 Run the command `make` to create the **dinodude** executable. See the exemple bellow :
 ```
-git clone https://github.com/Magueija/dinodude.git dinodude
+git clone --recursive https://github.com/Magueija/dinodude.git dinodude
 cd dinodude
-git submodule update --init --recursive
 make
 ./dinodude <path-to-map-file.ber>
 ```
