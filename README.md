@@ -40,6 +40,22 @@ The program must take as an argument a map description file with the '.ber' exte
 
 ## Getting Started
 
+# Requirements
+To use the program you must intall some software:
+Requirements for Linux (Debian/Ubuntu):
+	- [xorg](https://wiki.debian.org/Xorg)
+```
+sudo apt-get update
+sudo apt-get install gcc make xorg libxext-dev libbsd-dev xdotool
+```
+Requirements for MacOS:
+	- [Xquartz](https://www.xquartz.org/)
+```
+Brew install Xquartz
+reboot
+```
+
+# Starting the game
 Run the command `make` to create the **dinodude** executable. See the exemple bellow :
 ```
 git clone https://github.com/Magueija/dinodude.git dinodude
